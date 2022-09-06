@@ -1,0 +1,21 @@
+.Foot {
+  height: 75px;
+  background-color: transparent;
+  font-size: 12px;
+  color: #666;
+  text-align: center;
+  > div {
+    padding: 4px 0;
+  }
+  :global {
+    .beian {
+      a {
+        color: #666;
+        text-decoration: none;
+        &:hover {
+          color: #ef3473;
+        }
+      }
+    }
+  }
+}
