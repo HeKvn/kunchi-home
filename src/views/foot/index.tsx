@@ -10,7 +10,7 @@ export default function Foot() {
         <span>© 2020-2022 hekvn.top </span>
       </div>
       <div className='beian'>
-        <a href="https://beian.miit.gov.cn/">粤ICP备 2022049783</a>
+        <a href="https://beian.miit.gov.cn/">粤ICP备2022049783号-1</a>
       </div>
     </div>
   )
